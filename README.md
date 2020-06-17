@@ -14,7 +14,7 @@
 
 ## For compilation :
 ```
-g++ task1.cpp -std=c++11 -isystem benchmark/include \
+g++ benchmarktask.cpp -std=c++11 -isystem benchmark/include \
   -Lbenchmark/build/src -lbenchmark -lpthread
 ```
 
